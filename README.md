@@ -1,4 +1,4 @@
-# TryHackMe Active Directory Basics
+# Active Directory Basics
 
 I completed the Active Directory Basics lab on TryHackMe. In this lab, I was introduced to the basics of Active Directory, a directory service that allows for centralized management of user and computer resources in a Windows domain environment.
 Prior to completed this lab I worked in Help Desk in a small IT department along side a Network Engineer. We worked on many different projects and he taught me alot about active directory(users,groups,computer). Completeing this lab was fairly easy since its the basics but I gain valuable information on a number of this I didnt know.
