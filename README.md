@@ -1,7 +1,7 @@
 # Active Directory Basics
 
-I completed the Active Directory Basics lab on TryHackMe. In this lab, I was introduced to the basics of Active Directory, a directory service that allows for centralized management of user and computer resources in a Windows domain environment.
-Prior to completed this lab I worked in Help Desk in a small IT department along side a Network Engineer. We worked on many different projects and he taught me alot about active directory(users,groups,computer). Completeing this lab was fairly easy since its the basics but I gain valuable information on a number of this I didnt know.
+In this lab, I was introduced to the basics of Active Directory, a directory service that allows for centralized management of user and computer resources in a Windows domain environment.
+Prior to completing this lab I worked in Help Desk in a small IT department along side a Network Engineer. We worked on many different projects and he taught me alot about active directory(users,groups,computer). Completeing this lab was fairly easy since its the basics but I gain valuable information on a number of this I didnt know.
 
 The lab began with an introduction to the Active Directory Domain Services (AD DS) and the different components that make up a Windows domain. I learned how to create user accounts, groups, and organizational units (OUs) in Active Directory and how to manage these resources using the Active Directory Users and Computers (ADUC) tool.
 
